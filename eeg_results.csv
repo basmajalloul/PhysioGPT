@@ -1,0 +1,16 @@
+,Subject,True,Pred,Explanation,Variant,Model
+0,subject_0_394,Healthy,Healthy,"Only 1 channel and 1 region affected with no widespread suppression; normal variability.', 'timestamp': '2025-11-10 00:40:08'}",EEG-only,gpt-4o
+1,subject_0_399,Healthy,Healthy,"Only 1 channel and 1 region affected with no widespread suppression; normal variability.', 'timestamp': '2025-11-10 00:40:16'}",EEG-only,gpt-4o
+2,subject_0_462,Healthy,Healthy,"Only 1 channel and 1 region affected with no widespread suppression; normal variability.', 'timestamp': '2025-11-10 00:40:27'}",EEG-only,gpt-4o
+3,subject_0_463,Healthy,Healthy,"Only 1 channel and 1 region affected with no widespread suppression; alpha and beta suppression is isolated.', 'timestamp': '2025-11-10 00:40:36'}",EEG-only,gpt-4o
+4,subject_0_468,Healthy,Healthy,"Only 1 channel and 1 region affected with no widespread suppression; normal variability.', 'timestamp': '2025-11-10 00:40:47'}",EEG-only,gpt-4o
+5,subject_0_475,Healthy,Healthy,"Only 1 channel and 1 region affected with no widespread suppression; alpha and beta suppression is isolated.', 'timestamp': '2025-11-10 00:40:56'}",EEG-only,gpt-4o
+6,subject_0_476,Healthy,Healthy,"Only 1 channel and 1 region affected with no widespread suppression; normal variability.', 'timestamp': '2025-11-10 00:41:02'}",EEG-only,gpt-4o
+7,subject_1_397,MCI,Healthy,"Only 1 channel and 1 region affected with no widespread suppression; normal variability.', 'timestamp': '2025-11-10 00:41:10'}",EEG-only,gpt-4o
+8,subject_1_455,MCI,Healthy,"Only 1 channel and 1 region affected with no widespread suppression; normal variability.', 'timestamp': '2025-11-10 00:41:17'}",EEG-only,gpt-4o
+9,subject_1_456,MCI,Healthy,"Only 1 channel and 1 region affected with no widespread suppression; normal variability.', 'timestamp': '2025-11-10 00:41:25'}",EEG-only,gpt-4o
+10,subject_1_457,MCI,Healthy,"Only 1 channel and 1 region affected with no widespread suppression; normal variability.', 'timestamp': '2025-11-10 00:41:31'}",EEG-only,gpt-4o
+11,subject_1_459,MCI,Healthy,"Only 1 channel and 1 region affected with no widespread suppression; normal variability.', 'timestamp': '2025-11-10 00:41:38'}",EEG-only,gpt-4o
+12,subject_1_461,MCI,Healthy,"Only 1 channel and 1 region affected with no widespread suppression; normal variability.', 'timestamp': '2025-11-10 00:41:46'}",EEG-only,gpt-4o
+13,subject_1_464,MCI,Healthy,"Only 1 channel and 1 region affected with no widespread suppression; normal variability.', 'timestamp': '2025-11-10 00:41:53'}",EEG-only,gpt-4o
+14,subject_1_467,MCI,Healthy,"Only 1 channel and 1 region affected with no widespread suppression; normal variability.', 'timestamp': '2025-11-10 00:41:59'}",EEG-only,gpt-4o
