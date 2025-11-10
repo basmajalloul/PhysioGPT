@@ -17,6 +17,7 @@ demonstrating strong cross-domain generalization without retraining.
 
 ## Repository Structure
 
+```text
 ├── PhysioGPT_LLM_EEG_HRV.ipynb           # Cognitive–autonomic reasoning experiments (EEG + HRV)
 ├── PhysioGPT_LLM_POSE.ipynb              # Motor reasoning experiments (pose-based gait data)
 ├── PhysioGPT_llm_subject_predictions_*.csv  # LLM outputs and classification results
@@ -24,6 +25,7 @@ demonstrating strong cross-domain generalization without retraining.
 ├── hrv_results.csv                       # HRV-based evaluation metrics
 ├── LICENSE
 ├── README.md
+```
 
 ---
 
@@ -37,3 +39,24 @@ demonstrating strong cross-domain generalization without retraining.
    ```python
    from google.colab import userdata
    client = OpenAI(api_key=userdata.get("OPENAI_API_KEY"))
+   ```
+
+3. Each notebook generates subject-level summaries and queries the LLM 
+   using ontology-based prompts for reasoning and explanation.
+
+---
+
+## Citation
+
+If you use this repository, please cite:
+
+> Jalloul, B., Bouaziz, B., Mahdi, W., & Algergawy, A.  
+> *PhysioGPT: An Ontology-Guided Large Language Model for Interpretable Cognitive and Motor Function Assessment.*  
+> Submitted to *Computer Methods and Programs in Biomedicine*, 2025.
+
+---
+
+## License
+
+This work is distributed under the MIT License.  
+See the [LICENSE](./LICENSE) file for details.
