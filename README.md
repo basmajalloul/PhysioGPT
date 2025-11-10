@@ -17,14 +17,13 @@ demonstrating strong cross-domain generalization without retraining.
 
 ## Repository Structure
 
-├── PhysioGPT_LLM_EEG_HRV.ipynb # Cognitive–autonomic reasoning experiments (EEG + HRV)
-├── PhysioGPT_LLM_POSE.ipynb # Motor reasoning experiments (pose-based gait data)
-├── PhysioGPT_llm_subject_predictions_*.csv # LLM outputs and classification results
-├── eeg_results.csv # EEG-based evaluation metrics
-├── hrv_results.csv # HRV-based evaluation metrics
+├── PhysioGPT_LLM_EEG_HRV.ipynb           # Cognitive–autonomic reasoning experiments (EEG + HRV)
+├── PhysioGPT_LLM_POSE.ipynb              # Motor reasoning experiments (pose-based gait data)
+├── PhysioGPT_llm_subject_predictions_*.csv  # LLM outputs and classification results
+├── eeg_results.csv                       # EEG-based evaluation metrics
+├── hrv_results.csv                       # HRV-based evaluation metrics
 ├── LICENSE
 ├── README.md
-
 
 ---
 
