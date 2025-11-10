@@ -1,0 +1,31 @@
+Subject,True Label,LLM Decision,LLM Output,Model,Timestamp
+subject_0_394,Healthy,Healthy,"Conclusion: Healthy  
+Explanation: The EEG shows persistent low alpha activity, but HRV is within a healthy range (SDNN = 60.74 ms). According to the ontology, healthy autonomic regulation (SDNN ≥ 50 ms) with no strong EEG suppression detected classifies the subject as Healthy.",gpt-4o,2025-11-09 22:49:13
+subject_0_399,Healthy,Healthy,"Conclusion: Healthy  
+Explanation: The EEG shows low alpha activity, but HRV is within a healthy range (SDNN = 54.35 ms). There is no strong EEG suppression or HRV suppression, meeting the criteria for a healthy classification.",gpt-4o,2025-11-09 22:49:20
+subject_0_462,Healthy,Healthy,"Conclusion: Healthy  
+Explanation: The EEG shows low beta and alpha ratios, but HRV is not suppressed (SDNN = 70.78 ms). According to the ontology, healthy autonomic regulation (SDNN ≥ 50 ms) with no strong EEG suppression indicates a healthy classification.",gpt-4o,2025-11-09 22:49:26
+subject_0_463,Healthy,MCI,"Conclusion: MCI  
+Explanation: The EEG shows persistent alpha suppression, and the HRV is below 30 ms, indicating reduced autonomic flexibility. These findings meet the criteria for MCI as per the ontology rules.",gpt-4o,2025-11-09 22:49:36
+subject_0_468,Healthy,Healthy,"Conclusion: Healthy  
+Explanation: The EEG shows persistent low alpha activity, but HRV is healthy with an SDNN of 65.70 ms. According to the ontology, healthy autonomic regulation (SDNN ≥ 50 ms) with no strong EEG suppression indicates a healthy classification.",gpt-4o,2025-11-09 22:49:42
+subject_0_475,Healthy,Review,"Conclusion: Needs clinical review  
+Explanation: The EEG shows persistent alpha suppression, which is an abnormal feature. However, the HRV is not significantly suppressed (SDNN = 34.49 ms), which does not meet the criteria for reduced autonomic flexibility linked to MCI. The findings are partially abnormal but not conclusive for MCI.",gpt-4o,2025-11-09 22:49:49
+subject_0_476,Healthy,Review,"Conclusion: Needs clinical review  
+Explanation: The EEG shows persistent low alpha activity, indicating potential cognitive decline, but HRV is not significantly suppressed (SDNN = 36.61 ms). The findings are partially abnormal but not conclusive for MCI.",gpt-4o,2025-11-09 22:49:54
+subject_1_397,MCI,Review,"Conclusion: Needs clinical review  
+Explanation: The EEG shows persistent alpha suppression and beta suppression, indicating potential cognitive issues. However, the HRV is not significantly suppressed (SDNN = 41.39 ms), which does not meet the criteria for MCI. The findings are partially abnormal but not conclusive for a definitive classification.",gpt-4o,2025-11-09 22:50:00
+subject_1_455,MCI,MCI,"Conclusion: MCI  
+Explanation: The subject exhibits beta suppression across multiple EEG sites and HRV suppression (SDNN = 23.77 ms), meeting the criteria for MCI with two abnormal features co-occurring.",gpt-4o,2025-11-09 22:50:07
+subject_1_456,MCI,MCI,"Conclusion: MCI  
+Explanation: The subject exhibits low alpha activity across multiple EEG channels and low beta activity, alongside HRV suppression (SDNN = 20.55 ms). These findings meet the criteria for MCI, with at least two abnormal features co-occurring (alpha↓, beta↓, HRV↓).",gpt-4o,2025-11-09 22:50:12
+subject_1_457,MCI,MCI,"Conclusion: MCI  
+Explanation: The subject exhibits persistent low alpha activity (alpha suppression) and HRV suppression (SDNN = 25.03 ms), which are two abnormal features co-occurring, meeting the criteria for MCI classification.",gpt-4o,2025-11-09 22:50:18
+subject_1_459,MCI,MCI,"Conclusion: MCI  
+Explanation: The EEG shows persistent beta suppression, and the HRV indicates reduced autonomic flexibility with an SDNN of 28.56 ms. These findings meet the criteria for MCI with two abnormal features co-occurring (beta↓, HRV↓).",gpt-4o,2025-11-09 22:50:23
+subject_1_461,MCI,MCI,"Conclusion: MCI  
+Explanation: The subject exhibits low alpha and beta ratios, indicating alpha suppression and beta suppression, along with HRV suppression (SDNN = 24.81 ms). These findings meet the criteria for MCI, as there are at least two abnormal features co-occurring (alpha↓, beta↓, HRV↓).",gpt-4o,2025-11-09 22:50:29
+subject_1_464,MCI,MCI,"Conclusion: MCI  
+Explanation: The subject exhibits low alpha activity across multiple EEG sites, indicating alpha suppression, and HRV suppression with an SDNN of 27.69 ms. These findings meet the criteria for MCI as they include one strong EEG feature (alpha suppression) and HRV suppression.",gpt-4o,2025-11-09 22:50:35
+subject_1_467,MCI,MCI,"Conclusion: MCI  
+Explanation: The subject exhibits low beta ratios across multiple EEG channels, indicating beta suppression, and HRV suppression with an SDNN of 27.87 ms. These findings meet the criteria for MCI as they include one strong EEG feature (beta suppression) and HRV suppression.",gpt-4o,2025-11-09 22:50:40
